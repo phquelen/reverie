@@ -1,0 +1,225 @@
+# Reverie
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Reverie 4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-21 12:32+0100\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-03-21 12:56+0100\n"
+"Last-Translator: Pierre-Henri Quelen <pierrehenri.quelen@picodesque.fr>\n"
+"Language-Team: French\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: page-full.php:21 page.php:17 single.php:17
+msgid "Pages:"
+msgstr "Pages :"
+
+#: index.php:21 archive.php:21 search.php:23
+msgid "&larr; Older posts"
+msgstr "&larr; Articles postérieurs"
+
+#: index.php:22 archive.php:22 search.php:24
+msgid "Newer posts &rarr;"
+msgstr "Articles suivants &rarr;"
+
+#: comments.php:8
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: comments.php:9
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: comments.php:10
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: comments.php:16
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: comments.php:31
+msgid "Please do not load this page directly. Thanks!"
+msgstr "S'il vous plaît ne chargez pas cette page directement. Merci !"
+
+#: comments.php:36
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé par mot de passe. Entrez votre mot de passe pour "
+"voir les commentaires."
+
+#: comments.php:46
+msgid "No Responses to"
+msgstr "Pas de réponse à"
+
+#: comments.php:46
+msgid "One Response to"
+msgstr "Une réponse à"
+
+#: comments.php:46
+msgid "% Responses to"
+msgstr "% réponses à"
+
+#: comments.php:53
+msgid "&larr; Older comments"
+msgstr "&larr; Commentaires précédents"
+
+#: comments.php:54
+msgid "Newer comments &rarr;"
+msgstr "Commentaires suivants &rarr;"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:70
+msgid "Leave a Reply"
+msgstr "Répondez"
+
+#: comments.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Répondez à %s"
+
+#: comments.php:73
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Vous devez être <a href=\"%s\">connecté</a> pour publier un commentaire."
+
+#: comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Connecté en tant que <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: comments.php:77
+msgid "Log out of this account"
+msgstr "Se déconnecter de se compte"
+
+#: comments.php:77
+msgid "Log out &raquo;"
+msgstr "Se déconnecter &raquo;"
+
+#: comments.php:80
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:80 comments.php:84
+msgid " (required)"
+msgstr " (requis)"
+
+#: comments.php:84
+msgid "Email (will not be published)"
+msgstr "Email (ne sera pas publiée)"
+
+#: comments.php:88
+msgid "Website"
+msgstr "Site web"
+
+#: comments.php:93
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:97
+msgid "Submit Comment"
+msgstr "Envoyer le commentaire"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: content-none.php:15
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Désolé mais il n'y a pas de résultat. Une recherche aidera peut-être à "
+"trouver un article apparenté."
+
+#: search.php:6
+msgid "Search Results for"
+msgstr "Résultats de recherche pour"
+
+#: 404.php:8
+msgid "File Not Found"
+msgstr "Fichier introuvable"
+
+#: 404.php:12
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable."
+msgstr ""
+"La page que vous recherchez a peut-être été retirée, renommée ou est "
+"temporairement indisponible."
+
+#: 404.php:14
+msgid "Please try the following:"
+msgstr "S'il vous plaît essayez comme ceci :"
+
+#: 404.php:16
+msgid "Check your spelling"
+msgstr "Verifiez votre orthographe"
+
+#: 404.php:17
+#, php-format
+msgid "Return to the <a href=\"%s\">home page</a>"
+msgstr "Revenir à la <a href=\"%s\">page d'accueil</a>"
+
+#: 404.php:18
+msgid "Click the <a href=\"javascript:history.back()\">Back</a> button"
+msgstr "Cliquez sur le bouton <a href=\"javascript:history.back()\">Retour</a>"
+
+#: searchform.php:4 searchform.php:7
+msgid "Search"
+msgstr "Recherchez"
+
+#: functions.php:56
+msgid "Primary Navigation"
+msgstr "Navigation principale"
+
+#: functions.php:57
+msgid "Utility Navigation"
+msgstr "Navigation utilitaire"
+
+#: functions.php:95
+#, php-format
+msgid "Posted on %s at %s."
+msgstr "Publié le %s à %s."
+
+#: functions.php:96
+msgid "Written by"
+msgstr "Rédigé par"
+
+#: lib/foundation.php:16
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: lib/foundation.php:17
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: lib/foundation.php:36
+#, php-format
+msgid ""
+"Please assign a menu to the primary menu location under %1$s or %2$s the "
+"design."
+msgstr ""
+"S'il vous plaît, attribué un menu à la zone de menu principale sous %1$s or "
+"%2$s le design."
+
+#: lib/foundation.php:37
+#, php-format
+msgid "<a href=\"%s\">Menus</a>"
+msgstr "<a href=\"%s\">Menus</a>"
+
+#: lib/foundation.php:40
+#, php-format
+msgid "<a href=\"%s\">Customize</a>"
+msgstr "<a href=\"%s\">Personnaliser</a>"
